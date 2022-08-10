@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carpark Availability</string>
+    <string name="carpark_number">Carpark Number:</string>
+    <string name="textview">TextView</string>
+    <string name="carparkSearch">Search for Carpark...</string>
+    <string name="buttonSearch">Search</string>
+    <string name="line1">-------------------------------------------------------------------------</string>
+    <string name="show">SHOWING ALL CARPARKS</string>
+    <string name="line2">-------------------------------------------------------------------------</string>
+    <string name="btnShowAll">Show All</string>
+</resources>
